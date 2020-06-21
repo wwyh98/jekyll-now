@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Come with me!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Don't try so hard,the best things come when you least expect them to ♥.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
